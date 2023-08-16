@@ -1,1 +1,1 @@
-# python_lessons
+Ushbu repository python darslari uchun yaratilgan
