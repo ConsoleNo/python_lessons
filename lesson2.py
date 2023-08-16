@@ -17,4 +17,4 @@ python_codes = {
     'sum' : 'Berilgan massivdagi sonlar yig`indisini qaytaradi'
 }
 
-print(python.get('len', 'Ma\'lumot topilmadi'))
+print(python_codes.get('len', 'Ma\'lumot topilmadi'))
